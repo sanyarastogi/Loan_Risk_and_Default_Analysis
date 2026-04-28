@@ -8,8 +8,8 @@
 - Loan defaults lead to significant financial losses. This project aims to analyze historical loan data to identify high-risk customers and support better credit      decision-making.
 ---
 #  📊 Dataset
-application_data — 307,511 rows, 122 columns
-previous_application — 1,670,214 rows, 37 columns
+- application_data — 307,511 rows, 122 columns
+- previous_application — 1,670,214 rows, 37 columns
 
 ---
 # Project Assets
